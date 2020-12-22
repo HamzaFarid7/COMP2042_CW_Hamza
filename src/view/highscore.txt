@@ -1,0 +1,3 @@
+Loser:640
+Khota:40
+ADA:30
